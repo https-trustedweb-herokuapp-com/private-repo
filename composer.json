@@ -1,0 +1,17 @@
+{
+    "name": "nikhil/test-private",
+    "description": "Testing Private For NV",
+    "type": "library",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "Arya Stark",
+            "email": "cacha@mirzapurawale.com"
+        }
+    ],
+    "autoload": {
+        "psr-4": {
+            "TestPrivate\\": "src/"
+        }
+    }
+}
